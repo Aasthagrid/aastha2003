@@ -10,3 +10,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aastha2003)
