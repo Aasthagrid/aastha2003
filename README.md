@@ -1,5 +1,5 @@
 # I'm Aastha:
-🤝 Pursuing B.E. in ECE at Vidyavardhaka College of Engineering<br>🌱 I’m currently learning about Data Science and Big Data
+🤝 Graduated in B.E. in ECE at Vidyavardhaka College of Engineering<br>🌱 I’m currently learning about Data Science and Big Data
 
 
 ## 🌐 Socials:
